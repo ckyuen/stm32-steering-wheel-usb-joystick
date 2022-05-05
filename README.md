@@ -1,9 +1,9 @@
 # stm32-steering-wheel-usb-joystick
-This is the electronic part of my DIY steering wheel for sim racing using STM32. Featuring 8 front-facing buttons, 2 pedal shifters and 2 rotary encoders.
+This is the electronic part of my DIY steering wheel for sim racing using STM32. Featuring 8 front-facing buttons, 2 pedal shifters and 2 rotary encoders with spare pins for expansion.
 
 ## Materials
 1. Generic STM32F103 Blue-Pill Board https://stm32-base.org/boards/STM32F103C8T6-Blue-Pill.html
-2. 8 momentary switches of any kind
+2. 10 momentary switches of any kind
 3. 2 incremental rotary encoders (Module form with pull-up resistors and low-pass filters is perferred.)
 
 ## Peripheral Mappings
